@@ -1,18 +1,11 @@
-# Experiment 1: Decentralized Certificate Verification
-## Name:yagnesh kumar reddy L
-## Reg no: 212223100024
-## Date :07-05-2025
+### Experiment 1: Decentralized Certificate Verification
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
-### step 1:
-Deploy a smart contract where universities can issue certificates.
-### step 2:
-Store a hash of certificate data on-chain.
-### step 3:
-Provide a verification function that checks certificate authenticity.
-### step 4:
-Users can verify the certificate by comparing the stored hash.
+1. Deploy a smart contract where universities can issue certificates.
+2. Store a hash of certificate data on-chain.
+3. Provide a verification function that checks certificate authenticity.
+4. Users can verify the certificate by comparing the stored hash.
 ## Program:
 ```
 // SPDX-License-Identifier: MIT
